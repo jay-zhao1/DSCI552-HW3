@@ -52,8 +52,6 @@ Select the environment's Python kernel and choose **Restart Kernel and Run All C
 
 Validation environment: Python 3.13; direct package versions are recorded in requirements.txt. This submission has been prepared locally; it has not been uploaded to a course portal.
 
-Reasoning update: each requested question includes justification; added split-count arithmetic, feature definitions, cleaning and normalization rationale, bootstrap rationale, and expanded ISLR derivations. The revised notebook was executed again in a fresh kernel with zero errors.
-
 ## Audit decisions
 
 - Question 1(c)(iv) explicitly says to use judgment and gives min/mean/max as one option. The justified mean/std/max choice is retained. No supplied rule mandates the example; an unseen lecture rubric or Homework 4 grading convention cannot be confirmed from this assignment.
